@@ -1,0 +1,216 @@
+[
+    {
+        "id"               : 1,
+        "titre"            : "Dustcrepe",
+        "description"      : "Croustillant menthe, feta et concombre",
+        "niveau"           : "padawan",
+        "personnes"        : 4,
+        "tempsPreparation" : 15,
+        "ingredients"      : [
+                                ["8", "feuilles de brick"],
+                                ["½", "concombre"],
+                                ["1", "bouquet de menthe fraîche"],
+                                ["1", "oeuf"],
+                                ["300g", "feta"],
+                                ["2", "cuil. à soupe d'huile d'olive"],
+                                ["1", "cuil. à café de jus de citron"],
+                                ["", "Sel"],
+                                ["", "Poivre"]
+                            ],
+        "etapes"            : [
+            "Commencez par préparer le concombre et la menthe. Épluchez le concombre et taillez-le en mirepoix (dés de 1 cm environ). Réservez.",
+            "Passez maintenant à l'appareil qui farcira le croustillant. Dans un petit bol, battez l'oeuf jusqu'à ce qu'il soit mousseux. Assaisonnez.",
+            "Garnissez la pâte de feuilles de brick.",
+            "Dans une poële, faîtes chauffer l'huile d'olive à feu moyen et placez-y les croustillants que vous ferez revenir 2 min de chaque côté."
+                            ],
+        "photo" : "http://localhost:9000/images/dustcrepe.jpg"
+    },
+    {
+        "id"               : 2,
+        "titre"            : "Bantha à l'étouffée",
+        "description"      : "Pot-au-feu de boeuf et légumes anciens",
+        "niveau"           : "jedi",
+        "personnes"        : 6,
+        "tempsPreparation" : 35,
+        "ingredients"      : [
+                                ["6", "carottes"],
+                                ["2", "panais"],
+                                ["6", "navets boule d'or"],
+                                ["12", "pommes de terre"],
+                                ["6", "poireaux"],
+                                ["400g", "de plat de côte de boeuf"],
+                                ["500g", "de paleron"],
+                                ["500g", "de joue de boeuf"],
+                                ["1", "cuil. à soupe de pâte de miso"]
+                            ],
+        "etapes"            : [
+            "Commencez par préparer les légumes. Épluchez les carottes, les panais, les navets et les pommes de terre. Rincez les poireaux et séparez les blancs des verts. Réservez les verts et coupez les blancs en tronçons de 8 à 10 cm de long.",
+            "Ficelez-les deux par deux avec de la ficelle de cuisine. Coupez 4 carottes en deux beaux morceaux. Taillez l'un des panais en brunoise (dés de 2mm environ).",
+            "À l'aide de la cuillère parisienne, préparez des petites boules avec le panais et les carottes restants. Coupez les navets en deux. Réservez tous les légumes."
+                            ],
+        "photo" : "http://localhost:9000/images/bantha-a-l-etouffee.jpg"
+    },
+    {
+        "id"               : 3,
+        "titre"            : "Blue milkshake",
+        "description"      : "Milkshake yaourt, coco, lavande",
+        "niveau"           : "padawan",
+        "personnes"        : 6,
+        "tempsPreparation" : 10,
+        "ingredients"      : [
+                                ["25cl", "de lait de coco"],
+                                ["25cl", "de lait entier"],
+                                ["2", "tiges de lavande séchées"],
+                                ["2cl", "de colorant bleu"],
+                                ["50cl", "de crème glacée au yaourt"]
+                            ],
+        "etapes"            : [
+            "Commencez par préparer le lait bleu. Dans une casserole, versez le lait de coco et le lait entier.",
+            "Ajoutez les tiges de lavande séchées et faites chauffer à feu moyen pendant 10 minutes.",
+            "Ajoutez du colorant et laissez refroidir à température ambiante.",
+            "Dans le blender, déposez la crème glacée au yaourt et le lait bleu. Mixez pendant 1 min et servez bien frais."
+                            ],
+        "photo" : "http://localhost:9000/images/blue-milkshake.jpg"
+    },
+    {
+        "id"               : 4,
+        "titre"            : "Thé organique de Naboo",
+        "description"      : "Thé matcha, citron vert et miel",
+        "niveau"           : "maitre",
+        "personnes"        : 1,
+        "tempsPreparation" : 10,
+        "ingredients"      : [
+                                ["25cl", "d'eau bouillante"],
+                                ["25cl", "d'eau minérale"],
+                                ["½", "cuil. à café de thé matcha"],
+                                ["½", "citron vert"],
+                                ["1", "cuil. à café de miel de fleurs"],
+                                ["", "pétales de fleurs de pensée"]
+                            ],
+        "etapes"            : [
+            "Dans une casserole, portez l'eau minérale à frémissement. Réservez.",
+            "Déposez le thé dans un bol à fond plat. Versez l'eau minérale chaude (mais non bouillante) dans le bol. Puis, à l'aide du chasen, mélangez énergiquement le thé et l'eau, dans un mouvement allant du bas vers le haut.",
+            "Pressez le citron vert et incorporez son jus au thé encore brûlant. Ajoutez le miel et mélangez de nouveau à l'aide d'un chasen."
+                            ],
+        "photo" : "http://localhost:9000/images/the-organique-naboo.jpg"
+    },
+    {
+        "id"               : 5,
+        "titre"            : "Jus de Jawa",
+        "description"      : "Smoothie banane, figues fraîches, miel et amande",
+        "niveau"           : "padawan",
+        "personnes"        : 8,
+        "tempsPreparation" : 10,
+        "ingredients"      : [
+                                ["4", "bananes"],
+                                ["12", "figues bien mûres"],
+                                ["50cl", "de lait froid"],
+                                ["10cl", "de lait d'amande"],
+                                ["1", "cuil. à café de miel"],
+                                ["20g", "d'amandes effilées"]
+                            ],
+        "etapes"            : [
+            "Commencez par préparer les fruits. Épluchez les bananes et, à l'aide d'un couteau d'office, coupez-lez en rondelles. Réservez-les.",
+            "Toujours à l'aide du couteau, épluchez les figues et coupez-les en qutre, réservez-les.",
+            "Mixez le tout dans un blender et ajoutez le lait d'amande, le miel et le lait froid. Mélangez et servez frais."
+                            ],
+        "photo" : "http://localhost:9000/images/jus-jawa.jpg"
+    },
+    {
+        "id"               : 6,
+        "titre"            : "Galacticake",
+        "description"      : "Tartelettes aux figues, mascarpone et vanille",
+        "niveau"           : "jedi",
+        "personnes"        : 5,
+        "tempsPreparation" : 20,
+        "ingredients"      : [
+                                ["2", "pâtes sablées"],
+                                ["2", "oeufs"],
+                                ["100g", "de sucre en poudre"],
+                                ["450g", "de mascarpone à température ambiante"],
+                                ["2cl", "d'arôme de vanille bourbon"],
+                                ["8", "figues fraîches"],
+                                ["4", "cuil. à café de miel d'acacia"],
+                                ["1", "pincée de sel"]
+                            ],
+        "etapes"            : [
+            "Préparez les fonds de tartelette. Préchauffez le four à 180° (th. 6). Découpez quatre disques de pâte à l'aide de moules à tartelette. Beurrez les moules et foncez-les avec les disques préparés. Piquez ces derniers, puis déposez sur chaque disque une feuille de papier sulfurisé. Ajoutez des billes de cuisson et enfournez pour 15 minutes.",
+            "Séparez les blancs des jaunes d'oeufs. Faites blanchir les jaunes avec le sucre et incorporez peu à peu le mascarpone. Ajoutez l'arôme de vanille et mélangez.",
+            "Battez les blancs en neige ferme avec le sel et incorporez-les à la préparation. Filmez au contact et déposez au réfrigirateur."
+                            ],
+        "photo" : "http://localhost:9000/images/galacticake.jpg"
+    },
+    {
+        "id"               : 7,
+        "titre"            : "Cloud soufflé",
+        "description"      : "Mini-soufflés au chou-fleur et noix muscade",
+        "niveau"           : "jedi",
+        "personnes"        : 4,
+        "tempsPreparation" : 20,
+        "ingredients"      : [
+                                ["½", "chou-fleur en bouquets"],
+                                ["1", "cuil. à café de jus de citron"],
+                                ["4", "oeufs"],
+                                ["60cl", "de lait"],
+                                ["100g", "de beurre"],
+                                ["100g", "de farine"],
+                                ["150g", "d'emmental râpé"],
+                                ["1", "cuil. à café rase de noix muscade moulue"],
+                                ["", "sel"],
+                                ["", "poivre"]
+                            ],
+        "etapes"            : [
+            "Beurrez 4 moules à soufflé individuels et fleurez-les d'un peu de farine. Mettez-les ensuite au réfrigérateur.",
+            "Préparez le chou-fleur. À l'aide d'un couteau de cuisine, ôtez le trognon et les feuilles vertes. Tranchez les sommités en morceaux réguliers.",
+            "Portez un grand volume d'eau modérément salée à ébullition et plongez-y les sommités de chou-fleur. Ajoutez le jus de citron et laissez cuire pendant 15 min dans de l'eau bouillante. Égouttez et réservez.",
+            "Préchauffez le four à 180°C (th.6) et passez à la préparation de l'appareil à soufflé. Séparez les blancs des jaunes d'oeuf. Dans un grand bol avec une pincée de sel, montez les blancs en neige, réservez-les."
+                            ],
+        "photo" : "http://localhost:9000/images/cloud-souffle.jpg"
+    },
+    {
+        "id"               : 8,
+        "titre"            : "Dewback en ragoût",
+        "description"      : "Navarin d'agneau, quinoa, légumes glacés et jus réduit épicé",
+        "niveau"           : "maitre",
+        "personnes"        : 9,
+        "tempsPreparation" : 75,
+        "ingredients"      : [
+                                ["3", "gousses d'ail"],
+                                ["8", "feuilles de coriandre fraîche"],
+                                ["10cl", "de coulis de tomate"],
+                                ["½", "cuil. à café d'harissa"],
+                                ["1kg", "d'épaule d'agneau ou de haut de gigot"],
+                                ["2", "cuil. à soupe d'huile d'olive"],
+                                ["75cl", "de bouillon de légumes"],
+                                ["1", "bouquet garni"]
+                            ],
+        "etapes"            : [
+            "Commencez par la cuisson de la viande. Pelez les gousses d'ail, ôtez les germes et écrasez les gousses, puis réservez-les. Rassemblez les feuilles de coriandre les unes sur les autres et ciselez-les. Coupez l'agneau en morceaux de taille moyenne. Dans un faitout, versez l'huile d'olive et faites-la chauffer à feu moyen. Déposez l'agneau dans le faitout, assaisonnez d'une pincée de sel et faites revenir les morceaux jusqu'à ce que toutes les faces soient colorées.",
+            "Dès que l'agneau prend une belle couleur, retirez-le du faitout pendant quelques instants. Dans le faitout, déposez l'ail écrasé, le coulis de tomate, l'harissa et mélangez bien. Ajoutez la coriandre et le bouillon de légumes. Déposez le bouquet garni et remettez les morceaux d'agneau dans la préparation. Couvrez et laissez cuire à feu moyen pendant 45 minutes."
+                            ],
+        "photo" : "http://localhost:9000/images/dewback-en-ragout.jpg"
+    },
+    {
+        "id"               : 9,
+        "titre"            : "Chocolate lava cake",
+        "description"      : "Moelleux au chocolat, coeur coulant et piment d'Espelette",
+        "niveau"           : "padawan",
+        "personnes"        : 4,
+        "tempsPreparation" : 10,
+        "ingredients"      : [
+                                ["80g", "de beurre doux"],
+                                ["100g", "de chocolat noir"],
+                                ["2", "oeufs entiers"],
+                                ["30g", "de sucre"],
+                                ["30g", "de farine"],
+                                ["½", "cuil. à café de piment d'Espelette"],
+                                ["1", "zeste d'orange râpé"]
+                            ],
+        "etapes"            : [
+            "Commencez par préparer les moules à gâteau. Préchauffez le four à 210°C (th. 7).Beurrez les moules et réservez-les.",
+            "Faites fondre le chocolat et le beurre au bain-marie. Dans un saladier, cassez les oeufs et ajoutez le sucre. Mélangez et ajoutez le mélange beurre-chocolat, le piment d'Espelette et la farine.",
+            "Enfournez 8 minutes. Servez chaud."
+                            ],
+        "photo" : "http://localhost:9000/images/chocolate-lava-cake.jpg"
+    }
+]
